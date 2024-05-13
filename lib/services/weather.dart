@@ -4,7 +4,7 @@ import 'package:myweather/screens/loading_screen.dart';
 import 'package:myweather/services/location.dart';
 
 import 'location.dart';
-const apikey = '9ed514649eb94e4da9ee92ee30cf612c';
+const apikey = 'Enter API key here';
 class WeatherModel {
 
   Future <dynamic> cityWeather(String cityName) async{
